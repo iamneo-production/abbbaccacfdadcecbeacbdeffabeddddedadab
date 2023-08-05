@@ -1,5 +1,5 @@
 import React, { useState,useEffect } from 'react';
-import fetchData from './utillity';
+
 import fetchData from '../Utility/Utility';
 
 
